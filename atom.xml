@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>雨梦清欢</title>
+  <icon>https://blog.sakurink.eu.org/icon.png</icon>
+  <subtitle>不受律束，笔随兴至</subtitle>
+  <link href="https://blog.sakurink.eu.org/atom.xml" rel="self"/>
+  
+  <link href="https://blog.sakurink.eu.org/"/>
+  <updated>2024-12-06T08:39:43.000Z</updated>
+  <id>https://blog.sakurink.eu.org/</id>
+  
+  <author>
+    <name>R҉anm⌬</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何从 Wayback Machine 中删除你的网站</title>
+    <link href="https://blog.sakurink.eu.org/posts/4220845552/"/>
+    <id>https://blog.sakurink.eu.org/posts/4220845552/</id>
+    <published>2024-12-06T08:39:39.000Z</published>
+    <updated>2024-12-06T08:39:43.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验记录" scheme="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="web" scheme="https://blog.sakurink.eu.org/tags/web/"/>
+    
+    <category term="技巧" scheme="https://blog.sakurink.eu.org/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 mklink 将 Chrome 安装到别的磁盘</title>
+    <link href="https://blog.sakurink.eu.org/posts/2138137695/"/>
+    <id>https://blog.sakurink.eu.org/posts/2138137695/</id>
+    <published>2024-11-08T08:31:41.000Z</published>
+    <updated>2024-11-08T08:31:48.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验记录" scheme="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="程序" scheme="https://blog.sakurink.eu.org/tags/%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一键分析 Stable Diffusion 图像提示词：WD1.4 标签器安装与使用</title>
+    <link href="https://blog.sakurink.eu.org/posts/1085553840/"/>
+    <id>https://blog.sakurink.eu.org/posts/1085553840/</id>
+    <published>2024-10-02T12:24:05.000Z</published>
+    <updated>2024-10-02T12:24:14.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验记录" scheme="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="AI" scheme="https://blog.sakurink.eu.org/tags/AI/"/>
+    
+    <category term="AI 绘图" scheme="https://blog.sakurink.eu.org/tags/AI-%E7%BB%98%E5%9B%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网易邮箱添加（迁移）其他邮箱的方法</title>
+    <link href="https://blog.sakurink.eu.org/posts/3573389076/"/>
+    <id>https://blog.sakurink.eu.org/posts/3573389076/</id>
+    <published>2024-09-06T12:43:44.000Z</published>
+    <updated>2024-09-06T12:43:53.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验记录" scheme="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="邮件" scheme="https://blog.sakurink.eu.org/tags/%E9%82%AE%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Electron实用设置</title>
+    <link href="https://blog.sakurink.eu.org/posts/469643826/"/>
+    <id>https://blog.sakurink.eu.org/posts/469643826/</id>
+    <published>2024-08-30T12:06:09.000Z</published>
+    <updated>2024-08-31T12:06:15.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验记录" scheme="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="Electron" scheme="https://blog.sakurink.eu.org/tags/Electron/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 electron-builder 打包应用程序</title>
+    <link href="https://blog.sakurink.eu.org/posts/3514521534/"/>
+    <id>https://blog.sakurink.eu.org/posts/3514521534/</id>
+    <published>2024-08-08T13:51:12.000Z</published>
+    <updated>2024-08-08T13:51:17.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验记录" scheme="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="Electron" scheme="https://blog.sakurink.eu.org/tags/Electron/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Electron初识：将web页面变成桌面应用程序</title>
+    <link href="https://blog.sakurink.eu.org/posts/3639312373/"/>
+    <id>https://blog.sakurink.eu.org/posts/3639312373/</id>
+    <published>2024-08-02T13:28:23.000Z</published>
+    <updated>2024-08-02T13:28:28.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验记录" scheme="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="web" scheme="https://blog.sakurink.eu.org/tags/web/"/>
+    
+    <category term="Electron" scheme="https://blog.sakurink.eu.org/tags/Electron/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 Spacedesk 将手机或平板作为电脑扩展屏</title>
+    <link href="https://blog.sakurink.eu.org/posts/2333218969/"/>
+    <id>https://blog.sakurink.eu.org/posts/2333218969/</id>
+    <published>2024-07-28T12:10:00.000Z</published>
+    <updated>2024-07-28T12:10:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="体验推荐" scheme="https://blog.sakurink.eu.org/categories/%E4%BD%93%E9%AA%8C%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="程序" scheme="https://blog.sakurink.eu.org/tags/%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware 通过宿主机代理连接网络</title>
+    <link href="https://blog.sakurink.eu.org/posts/3161555917/"/>
+    <id>https://blog.sakurink.eu.org/posts/3161555917/</id>
+    <published>2024-07-21T06:43:22.000Z</published>
+    <updated>2024-07-21T06:43:29.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验记录" scheme="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="虚拟机" scheme="https://blog.sakurink.eu.org/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+    <category term="操作系统" scheme="https://blog.sakurink.eu.org/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware 虚拟机安装教程</title>
+    <link href="https://blog.sakurink.eu.org/posts/757254239/"/>
+    <id>https://blog.sakurink.eu.org/posts/757254239/</id>
+    <published>2024-07-17T06:17:54.000Z</published>
+    <updated>2024-07-17T06:17:56.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验记录" scheme="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="虚拟机" scheme="https://blog.sakurink.eu.org/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+  </entry>
+  
+</feed>

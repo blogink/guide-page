@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>雨梦清欢</title>
+    <link>https://blog.sakurink.eu.org/</link>
+    
+    <image>
+      <url>https://blog.sakurink.eu.org/icon.png</url>
+      <title>雨梦清欢</title>
+      <link>https://blog.sakurink.eu.org/</link>
+    </image>
+    
+    <atom:link href="https://blog.sakurink.eu.org/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>学习记录与分享，本网站随缘更新。</description>
+    <pubDate>Fri, 06 Dec 2024 08:39:43 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何从 Wayback Machine 中删除你的网站</title>
+      <link>https://blog.sakurink.eu.org/posts/4220845552/</link>
+      <guid>https://blog.sakurink.eu.org/posts/4220845552/</guid>
+      <pubDate>Fri, 06 Dec 2024 08:39:39 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/">经验记录</category>
+      
+      
+      <category domain="https://blog.sakurink.eu.org/tags/web/">web</category>
+      
+      <category domain="https://blog.sakurink.eu.org/tags/%E6%8A%80%E5%B7%A7/">技巧</category>
+      
+      
+      <comments>https://blog.sakurink.eu.org/posts/4220845552/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>使用 mklink 将 Chrome 安装到别的磁盘</title>
+      <link>https://blog.sakurink.eu.org/posts/2138137695/</link>
+      <guid>https://blog.sakurink.eu.org/posts/2138137695/</guid>
+      <pubDate>Fri, 08 Nov 2024 08:31:41 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/">经验记录</category>
+      
+      
+      <category domain="https://blog.sakurink.eu.org/tags/%E7%A8%8B%E5%BA%8F/">程序</category>
+      
+      
+      <comments>https://blog.sakurink.eu.org/posts/2138137695/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>一键分析 Stable Diffusion 图像提示词：WD1.4 标签器安装与使用</title>
+      <link>https://blog.sakurink.eu.org/posts/1085553840/</link>
+      <guid>https://blog.sakurink.eu.org/posts/1085553840/</guid>
+      <pubDate>Wed, 02 Oct 2024 12:24:05 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/">经验记录</category>
+      
+      
+      <category domain="https://blog.sakurink.eu.org/tags/AI/">AI</category>
+      
+      <category domain="https://blog.sakurink.eu.org/tags/AI-%E7%BB%98%E5%9B%BE/">AI 绘图</category>
+      
+      
+      <comments>https://blog.sakurink.eu.org/posts/1085553840/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>网易邮箱添加（迁移）其他邮箱的方法</title>
+      <link>https://blog.sakurink.eu.org/posts/3573389076/</link>
+      <guid>https://blog.sakurink.eu.org/posts/3573389076/</guid>
+      <pubDate>Fri, 06 Sep 2024 12:43:44 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/">经验记录</category>
+      
+      
+      <category domain="https://blog.sakurink.eu.org/tags/%E9%82%AE%E4%BB%B6/">邮件</category>
+      
+      
+      <comments>https://blog.sakurink.eu.org/posts/3573389076/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Electron实用设置</title>
+      <link>https://blog.sakurink.eu.org/posts/469643826/</link>
+      <guid>https://blog.sakurink.eu.org/posts/469643826/</guid>
+      <pubDate>Fri, 30 Aug 2024 12:06:09 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/">经验记录</category>
+      
+      
+      <category domain="https://blog.sakurink.eu.org/tags/Electron/">Electron</category>
+      
+      
+      <comments>https://blog.sakurink.eu.org/posts/469643826/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>使用 electron-builder 打包应用程序</title>
+      <link>https://blog.sakurink.eu.org/posts/3514521534/</link>
+      <guid>https://blog.sakurink.eu.org/posts/3514521534/</guid>
+      <pubDate>Thu, 08 Aug 2024 13:51:12 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/">经验记录</category>
+      
+      
+      <category domain="https://blog.sakurink.eu.org/tags/Electron/">Electron</category>
+      
+      
+      <comments>https://blog.sakurink.eu.org/posts/3514521534/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Electron初识：将web页面变成桌面应用程序</title>
+      <link>https://blog.sakurink.eu.org/posts/3639312373/</link>
+      <guid>https://blog.sakurink.eu.org/posts/3639312373/</guid>
+      <pubDate>Fri, 02 Aug 2024 13:28:23 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/">经验记录</category>
+      
+      
+      <category domain="https://blog.sakurink.eu.org/tags/web/">web</category>
+      
+      <category domain="https://blog.sakurink.eu.org/tags/Electron/">Electron</category>
+      
+      
+      <comments>https://blog.sakurink.eu.org/posts/3639312373/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>使用 Spacedesk 将手机或平板作为电脑扩展屏</title>
+      <link>https://blog.sakurink.eu.org/posts/2333218969/</link>
+      <guid>https://blog.sakurink.eu.org/posts/2333218969/</guid>
+      <pubDate>Sun, 28 Jul 2024 12:10:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sakurink.eu.org/categories/%E4%BD%93%E9%AA%8C%E6%8E%A8%E8%8D%90/">体验推荐</category>
+      
+      
+      <category domain="https://blog.sakurink.eu.org/tags/%E7%A8%8B%E5%BA%8F/">程序</category>
+      
+      
+      <comments>https://blog.sakurink.eu.org/posts/2333218969/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>VMware 通过宿主机代理连接网络</title>
+      <link>https://blog.sakurink.eu.org/posts/3161555917/</link>
+      <guid>https://blog.sakurink.eu.org/posts/3161555917/</guid>
+      <pubDate>Sun, 21 Jul 2024 06:43:22 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/">经验记录</category>
+      
+      
+      <category domain="https://blog.sakurink.eu.org/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/">虚拟机</category>
+      
+      <category domain="https://blog.sakurink.eu.org/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/">操作系统</category>
+      
+      
+      <comments>https://blog.sakurink.eu.org/posts/3161555917/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>VMware 虚拟机安装教程</title>
+      <link>https://blog.sakurink.eu.org/posts/757254239/</link>
+      <guid>https://blog.sakurink.eu.org/posts/757254239/</guid>
+      <pubDate>Wed, 17 Jul 2024 06:17:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/">经验记录</category>
+      
+      
+      <category domain="https://blog.sakurink.eu.org/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/">虚拟机</category>
+      
+      
+      <comments>https://blog.sakurink.eu.org/posts/757254239/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

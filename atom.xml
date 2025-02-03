@@ -6,7 +6,7 @@
   <link href="https://blog.sakurink.eu.org/atom.xml" rel="self"/>
   
   <link href="https://blog.sakurink.eu.org/"/>
-  <updated>2025-01-27T12:17:10.000Z</updated>
+  <updated>2025-02-02T04:41:32.000Z</updated>
   <id>https://blog.sakurink.eu.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>提示词反推工具 WD-Tagger 本地部署</title>
+    <link href="https://blog.sakurink.eu.org/posts/3944900396/"/>
+    <id>https://blog.sakurink.eu.org/posts/3944900396/</id>
+    <published>2025-02-02T04:41:29.000Z</published>
+    <updated>2025-02-02T04:41:32.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验记录" scheme="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="AI" scheme="https://blog.sakurink.eu.org/tags/AI/"/>
+    
+    <category term="AI 绘图" scheme="https://blog.sakurink.eu.org/tags/AI-%E7%BB%98%E5%9B%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>Stable Diffusion 占 C 盘空间，如何清理缓存文件</title>
@@ -244,31 +271,6 @@
     <category term="web" scheme="https://blog.sakurink.eu.org/tags/web/"/>
     
     <category term="Electron" scheme="https://blog.sakurink.eu.org/tags/Electron/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>使用 Spacedesk 将手机或平板作为电脑扩展屏</title>
-    <link href="https://blog.sakurink.eu.org/posts/2333218969/"/>
-    <id>https://blog.sakurink.eu.org/posts/2333218969/</id>
-    <published>2024-07-28T12:10:00.000Z</published>
-    <updated>2024-07-28T12:10:00.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="体验推荐" scheme="https://blog.sakurink.eu.org/categories/%E4%BD%93%E9%AA%8C%E6%8E%A8%E8%8D%90/"/>
-    
-    
-    <category term="程序" scheme="https://blog.sakurink.eu.org/tags/%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   

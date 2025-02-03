@@ -15,8 +15,37 @@
     <atom:link href="https://blog.sakurink.eu.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>学习记录与分享，本网站随缘更新。</description>
-    <pubDate>Mon, 27 Jan 2025 12:17:10 GMT</pubDate>
+    <pubDate>Sun, 02 Feb 2025 04:41:32 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>提示词反推工具 WD-Tagger 本地部署</title>
+      <link>https://blog.sakurink.eu.org/posts/3944900396/</link>
+      <guid>https://blog.sakurink.eu.org/posts/3944900396/</guid>
+      <pubDate>Sun, 02 Feb 2025 04:41:29 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sakurink.eu.org/categories/%E7%BB%8F%E9%AA%8C%E8%AE%B0%E5%BD%95/">经验记录</category>
+      
+      
+      <category domain="https://blog.sakurink.eu.org/tags/AI/">AI</category>
+      
+      <category domain="https://blog.sakurink.eu.org/tags/AI-%E7%BB%98%E5%9B%BE/">AI 绘图</category>
+      
+      
+      <comments>https://blog.sakurink.eu.org/posts/3944900396/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Stable Diffusion 占 C 盘空间，如何清理缓存文件</title>
@@ -264,33 +293,6 @@
       
       
       <comments>https://blog.sakurink.eu.org/posts/3639312373/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>使用 Spacedesk 将手机或平板作为电脑扩展屏</title>
-      <link>https://blog.sakurink.eu.org/posts/2333218969/</link>
-      <guid>https://blog.sakurink.eu.org/posts/2333218969/</guid>
-      <pubDate>Sun, 28 Jul 2024 12:10:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;link rel=&quot;stylesheet&quot;</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://blog.sakurink.eu.org/categories/%E4%BD%93%E9%AA%8C%E6%8E%A8%E8%8D%90/">体验推荐</category>
-      
-      
-      <category domain="https://blog.sakurink.eu.org/tags/%E7%A8%8B%E5%BA%8F/">程序</category>
-      
-      
-      <comments>https://blog.sakurink.eu.org/posts/2333218969/#disqus_thread</comments>
       
     </item>
     
